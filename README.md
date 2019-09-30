@@ -23,9 +23,9 @@ To generate the API key go to https://dev-portal.onshape.com/keys
 
 
 {
-    \"https://cad.onshape.com": {
-    \    "access_key": "YOUR ACCESS KEY",
-    \    "secret_key": "YOUR SECRET KEY"
-    \}
+    "https://cad.onshape.com": {
+        "access_key": "YOUR ACCESS KEY",
+        "secret_key": "YOUR SECRET KEY"
+    }
 }
 
