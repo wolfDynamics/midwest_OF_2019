@@ -21,12 +21,11 @@ You can also follow our instructions.  You will find them in the directory API_i
 In the directory support_files of each case look for the file creds.json and add your credentials
 To generate the API key go to https://dev-portal.onshape.com/keys
 
-*********************************
+
 {
-    "https://cad.onshape.com": {
-        "access_key": "YOUR ACCESS KEY",
-        "secret_key": "YOUR SECRET KEY"
-    }
+    \"https://cad.onshape.com": {
+    \    "access_key": "YOUR ACCESS KEY",
+    \    "secret_key": "YOUR SECRET KEY"
+    \}
 }
-*********************************
 
