@@ -29,3 +29,6 @@ To generate the API key go to https://dev-portal.onshape.com/keys
     }
 }
 
+
+
+In the archive parallel_coordinates_dse_case.zip, you will find a javascript app for the interactive visualization of multivariable sets using parallel coordinates. The script will visualize by the default the outcome of a parametric study with three desgin variables (diameter1, diameter2, angle) of the mixing tank case. The input file is in CSV format.
